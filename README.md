@@ -1,6 +1,4 @@
-# Fake-YouTube
-
-## Fake YouTube is currently offline while it undergoes some maintenace -- Posted July/8th-2023
+# [Fake-YouTube](https://henryjacobs.us/Fake-YouTube) 
 
 ### Fake YouTube is a React YouTube clone that grants users much of the same functionality they would get on actual YouTube. 
 
