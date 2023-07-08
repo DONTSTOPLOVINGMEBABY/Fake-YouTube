@@ -1,6 +1,8 @@
 # Fake-YouTube
 
-### [Fake-YouTube](https://henryjacobs.us) is a React YouTube clone that grants users much of the same functionality they would get on actual YouTube. 
+## Fake YouTube is currently offline while it undergoes some maintenace -- Posted July/8th-2023
+
+### Fake YouTube is a React YouTube clone that grants users much of the same functionality they would get on actual YouTube. 
 
 Some of the things users can do on Fake-YouTube include :
 - Uploading videos to their own channel
